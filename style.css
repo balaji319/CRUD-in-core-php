@@ -1,0 +1,46 @@
+body
+{
+	font-size:19px;
+	background-color: red;
+}
+
+
+table
+{
+	width:45%;
+	margin:30px auto;
+	border-collapse:collapse;
+	text-align: left;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+tr
+{
+	border-bottom: 1px solid #cbcbcb;
+}
+
+th,td
+{
+	border:none;
+	height: 30px;
+	padding: 2px;
+}
+
+tr:hover
+{
+	background: #FSFSFS;
+}
+
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    width: 47%;
+    margin-left: 27%;
+    text-align: center;
+}
